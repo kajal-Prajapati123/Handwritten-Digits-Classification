@@ -1,5 +1,3 @@
-# Handwritten-Digits-Classification
-
 # KNN – Handwritten Digit Classification
 
 ## 📌 Task Overview
